@@ -123,7 +123,7 @@ window.addEventListener("resize", () => {
 
 // GUI
 const params = {
-  pixelSize: 2,
+  pixelSize: 1,
   brightness: 0,
   contrast: 1,
 };
