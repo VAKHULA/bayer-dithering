@@ -3,4 +3,5 @@ module.exports = {
     outDir: "./docs",
     emptyOutDir: true,
   },
+  base: "/bayer-dithering/",
 };
